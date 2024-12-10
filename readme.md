@@ -135,6 +135,8 @@ P(t) = (1 - t) * A + t * B, where 0 ≤ t ≤ 1
 Unity implements this using `Vector3.Lerp`, which reinforces concepts of **linear transformations** and **vector spaces**. Beyond transparency interpolation, `Vector3.Lerp` is versatile for animations and movements in 2D or 3D spaces, such as character movement or object transitions.
 
 ---
+
+![Game Screenshot](./images/Image.png)
 **Code In Spawning Obastacles**
 ```csharp
 using System.Collections;
