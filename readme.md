@@ -25,17 +25,17 @@
 
 # How To Play
 ![Game Screenshot](./screenshots/game_screen.png)  
-![Game Screenshot](./images/Animation)
+![Game Screenshot](./images/Animation.gif)
 
 Press any key to start!
 
-![Game Screenshot](./images/Animation2)
+![Game Screenshot](./images/Animation2.gif)
 
 Pick your lane among three!
 
-![Game Screenshot](./images/Animation3)
+![Game Screenshot](./images/Animation3.gif)
 
-![Game Screenshot](./images/Animation4)
+![Game Screenshot](./images/Animation4.gif)
 
 Wait for the result!
 
@@ -91,7 +91,7 @@ public class ReadyController : MonoBehaviour
     }
 }
 ```
-![Game Screenshot](./images/Animation5)
+![Game Screenshot](./images/Animation5.gif)
 ## Unity Fade Effect with Linear Algebra Perspective
 
 This document explores how the Unity fade effect implementation relates to concepts **Linear Algebra**, such as **linear transformations**, **vector spaces**, and **scaling operations**. We will focus on connecting the mathematical principles with practical coding in Unity.
