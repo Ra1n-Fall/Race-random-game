@@ -136,7 +136,6 @@ Unity implements this using `Vector3.Lerp`, which reinforces concepts of **linea
 
 ---
 
-![Game Screenshot](./images/Image.png)
 **Code In Spawning Obastacles**
 ```csharp
 using System.Collections;
@@ -200,6 +199,8 @@ public class Obstaclespawner : MonoBehaviour
 }
 
 ```
+
+![Game Screenshot](./images/Image.png)
 ## Fisher-Yates Shuffle Algorithm
 
 The **Fisher-Yates Shuffle** is an algorithm designed to randomize the order of elements in a list, ensuring that all possible permutations are equally likely. It achieves this by swapping elements directly while maintaining uniform randomness.
