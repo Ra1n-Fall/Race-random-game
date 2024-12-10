@@ -16,9 +16,12 @@
 
 - **Technology Stack**: Unity, C#, ClipStudio, etc.  
 - **Main Features**: 
-
-  - Useful when you record random rank among 3 people!
+  - A single click generates random ranks in race for 3 participants and displays the results instantly
+  - Useful when you record random rank among 3 people
+  - Game menu is supported
   - I own every right of source file including image file
+  
+
 
 
 ---
@@ -40,7 +43,6 @@ Pick your lane among three!
 Wait for the result!
 
 You win!
-Add a brief description of the gameplay or user interface depicted in the screenshot.
 
 ---
 
