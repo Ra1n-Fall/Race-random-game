@@ -27,22 +27,22 @@
 ---
 
 # How To Play
-![Game Screenshot](./screenshots/game_screen.png)  
+
 ![Game Screenshot](./images/Animation.gif)
 
-Press any key to start!
+**Press any key to start!**
 
 ![Game Screenshot](./images/Animation2.gif)
 
-Pick your lane among three!
+**Pick your lane among three!**
 
 ![Game Screenshot](./images/Animation3.gif)
 
-Wait for the result!
+**Wait for the result!**
 
 ![Game Screenshot](./images/Animation4.gif)
 
-You win!
+**You win!**
 
 ---
 
