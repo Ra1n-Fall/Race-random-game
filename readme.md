@@ -38,9 +38,9 @@ Pick your lane among three!
 
 ![Game Screenshot](./images/Animation3.gif)
 
-![Game Screenshot](./images/Animation4.gif)
-
 Wait for the result!
+
+![Game Screenshot](./images/Animation4.gif)
 
 You win!
 
@@ -53,7 +53,7 @@ Highlight important portions of the code:
 ```csharp
 public class ReadyController : MonoBehaviour
 {
-    public CanvasGroup readyCanvasGroup; // Ready 에셋의 CanvasGroup
+    public CanvasGroup readyCanvasGroup; 
     public float standbytime = 0f;
     public float displayTime = 2f; 
     public float fadeDuration = 1f; 
@@ -220,6 +220,13 @@ The Fisher-Yates Shuffle operates as follows:
 ### 2. Adaptation
 
 With this algorithm, we can spawn obstacles in identical probability which ensures fair game result.
+
+---
+
+# Better Improvements
+
+- Add sound and particle effects
+- Add more characters
 
 
 
