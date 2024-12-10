@@ -7,7 +7,7 @@
 1. [Overview](#overview)
 2. [How To Play](#How-To-Play)
 3. [Key Code](#key-code)
-4. [Improvements](#improvements)
+4. [Improvements](#Better-Improvements)
 
 ---
 
